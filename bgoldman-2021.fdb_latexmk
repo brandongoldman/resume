@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1614706443 "/Users/brandon/Documents/Career/Resume_Git/bgoldman-2021.tex" "/Users/brandon/Documents/Career/Resume_Git/bgoldman-2021.pdf" "bgoldman-2021" 1614706445
-  "/Users/brandon/Documents/Career/Resume_Git/bgoldman-2021.aux" 1614706444 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/Users/brandon/Documents/Career/Resume_Git/bgoldman-2021.tex" 1614706442 4859 8dcd2da328671a37815cafd23d484305 ""
+["pdflatex"] 1616277022 "/Users/brandon/Documents/Career/Resume_Git/bgoldman-2021.tex" "/Users/brandon/Documents/Career/Resume_Git/bgoldman-2021.pdf" "bgoldman-2021" 1616277023
+  "/Users/brandon/Documents/Career/Resume_Git/bgoldman-2021.aux" 1616277023 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/Users/brandon/Documents/Career/Resume_Git/bgoldman-2021.tex" 1616277021 4857 a341d8d709a63d92dd78d3547645e688 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1480098701 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2018/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1480098701 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -37,12 +37,12 @@
   "/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1523934492 2717033 f61a5287d9c22a39a74f1979fe3f905c ""
   "/usr/local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1523934516 4220280 10cab8fbd7c5a7c52aba9917e190d018 ""
   "/usr/local/texlive/2018/texmf.cnf" 1523934483 577 0b39adfd7c93507ff20c9c14c2f1a33f ""
-  "bgoldman-2021.aux" 1614706444 8 a94a2480d3289e625eea47cd1b285758 ""
-  "bgoldman-2021.tex" 1614706442 4859 8dcd2da328671a37815cafd23d484305 ""
+  "bgoldman-2021.aux" 1616277023 8 a94a2480d3289e625eea47cd1b285758 ""
+  "bgoldman-2021.tex" 1616277021 4857 a341d8d709a63d92dd78d3547645e688 ""
   "resume.cls" 1550536805 4157 bd99fd9cb3a3268fffd35d093d7ae31c ""
   (generated)
-  "bgoldman-2021.log"
-  "/Users/brandon/Documents/Career/Resume_Git/bgoldman-2021.log"
-  "bgoldman-2021.aux"
   "/Users/brandon/Documents/Career/Resume_Git/bgoldman-2021.pdf"
+  "bgoldman-2021.aux"
+  "/Users/brandon/Documents/Career/Resume_Git/bgoldman-2021.log"
+  "bgoldman-2021.log"
   "bgoldman-2021.pdf"
